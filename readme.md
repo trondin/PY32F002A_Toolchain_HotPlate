@@ -4,9 +4,9 @@ This project serves as a demonstration of programming the **PY32F002A** microcon
 
 ## Project Overview
 
-/images/heater400.jpg
+![Heater](images/heater400.jpg)
 
-/images/schematic.jpg
+![Schematic](images/schematic.jpg)
 
 The project is built for the **PY32F002A** microcontroller, which uses the same silicon as the **PY32F030** but in a TSSOP20 package. According to the datasheet, the PY32F002A has the following differences:
 
